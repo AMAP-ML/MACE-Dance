@@ -1,0 +1,162 @@
+{
+    "imaging_quality": [
+        0.7153698902403514,
+        [
+            {
+                "video_path": "../Pred/1097a45bbc904e93b7f2526203723208.mp4",
+                "video_results": 70.88490186055502
+            },
+            {
+                "video_path": "../Pred/329bb551471940d6b6fa29bc3cd1b829.mp4",
+                "video_results": 64.20835382080078
+            },
+            {
+                "video_path": "../Pred/5f0eda059ed949b29b91b26d821aba47.mp4",
+                "video_results": 75.25370657444
+            },
+            {
+                "video_path": "../Pred/8fcf7edfb9324e2f819622fb1a1f7ae1.mp4",
+                "video_results": 79.38760167439779
+            },
+            {
+                "video_path": "../Pred/b2e57db8055f43dda47f88b2d9efda88.mp4",
+                "video_results": 67.9503811899821
+            }
+        ]
+    ],
+    "aesthetic_quality": [
+        0.5339987754821778,
+        [
+            {
+                "video_path": "../Pred/1097a45bbc904e93b7f2526203723208.mp4",
+                "video_results": 0.6163687109947205
+            },
+            {
+                "video_path": "../Pred/329bb551471940d6b6fa29bc3cd1b829.mp4",
+                "video_results": 0.5134017467498779
+            },
+            {
+                "video_path": "../Pred/5f0eda059ed949b29b91b26d821aba47.mp4",
+                "video_results": 0.5298367738723755
+            },
+            {
+                "video_path": "../Pred/8fcf7edfb9324e2f819622fb1a1f7ae1.mp4",
+                "video_results": 0.5220584869384766
+            },
+            {
+                "video_path": "../Pred/b2e57db8055f43dda47f88b2d9efda88.mp4",
+                "video_results": 0.48832815885543823
+            }
+        ]
+    ],
+    "subject_consistency": [
+        0.8867013506782023,
+        [
+            {
+                "video_path": "../Pred/1097a45bbc904e93b7f2526203723208.mp4",
+                "video_results": 0.9386930778672464
+            },
+            {
+                "video_path": "../Pred/329bb551471940d6b6fa29bc3cd1b829.mp4",
+                "video_results": 0.9468988907863816
+            },
+            {
+                "video_path": "../Pred/5f0eda059ed949b29b91b26d821aba47.mp4",
+                "video_results": 0.7269869049044021
+            },
+            {
+                "video_path": "../Pred/8fcf7edfb9324e2f819622fb1a1f7ae1.mp4",
+                "video_results": 0.9224193120162759
+            },
+            {
+                "video_path": "../Pred/b2e57db8055f43dda47f88b2d9efda88.mp4",
+                "video_results": 0.9536903156530137
+            }
+        ]
+    ],
+    "background_consistency": [
+        0.9041537952338923,
+        [
+            {
+                "video_path": "../Pred/1097a45bbc904e93b7f2526203723208.mp4",
+                "video_results": 0.9491967038566054,
+                "video_sim": 283.809814453125,
+                "cnt_per_video": 299
+            },
+            {
+                "video_path": "../Pred/329bb551471940d6b6fa29bc3cd1b829.mp4",
+                "video_results": 0.9554605139307228,
+                "video_sim": 237.90966796875,
+                "cnt_per_video": 249
+            },
+            {
+                "video_path": "../Pred/5f0eda059ed949b29b91b26d821aba47.mp4",
+                "video_results": 0.7786299542682927,
+                "video_sim": 223.466796875,
+                "cnt_per_video": 287
+            },
+            {
+                "video_path": "../Pred/8fcf7edfb9324e2f819622fb1a1f7ae1.mp4",
+                "video_results": 0.9237969929739933,
+                "video_sim": 137.645751953125,
+                "cnt_per_video": 149
+            },
+            {
+                "video_path": "../Pred/b2e57db8055f43dda47f88b2d9efda88.mp4",
+                "video_results": 0.9501625419463087,
+                "video_sim": 141.57421875,
+                "cnt_per_video": 149
+            }
+        ]
+    ],
+    "motion_smoothness": [
+        0.9918572743132554,
+        [
+            {
+                "video_path": "../Pred/1097a45bbc904e93b7f2526203723208.mp4",
+                "video_results": 0.9945124788174188
+            },
+            {
+                "video_path": "../Pred/329bb551471940d6b6fa29bc3cd1b829.mp4",
+                "video_results": 0.9943481659329465
+            },
+            {
+                "video_path": "../Pred/5f0eda059ed949b29b91b26d821aba47.mp4",
+                "video_results": 0.9896663166513043
+            },
+            {
+                "video_path": "../Pred/8fcf7edfb9324e2f819622fb1a1f7ae1.mp4",
+                "video_results": 0.9891780527463738
+            },
+            {
+                "video_path": "../Pred/b2e57db8055f43dda47f88b2d9efda88.mp4",
+                "video_results": 0.9915813574182332
+            }
+        ]
+    ],
+    "temporal_flickering": [
+        0.9812424220290838,
+        [
+            {
+                "video_path": "../Pred/1097a45bbc904e93b7f2526203723208.mp4",
+                "video_results": 0.9871695509143904
+            },
+            {
+                "video_path": "../Pred/329bb551471940d6b6fa29bc3cd1b829.mp4",
+                "video_results": 0.9836879692825616
+            },
+            {
+                "video_path": "../Pred/5f0eda059ed949b29b91b26d821aba47.mp4",
+                "video_results": 0.9770195343915153
+            },
+            {
+                "video_path": "../Pred/8fcf7edfb9324e2f819622fb1a1f7ae1.mp4",
+                "video_results": 0.9829823419159534
+            },
+            {
+                "video_path": "../Pred/b2e57db8055f43dda47f88b2d9efda88.mp4",
+                "video_results": 0.9753527136409984
+            }
+        ]
+    ]
+}

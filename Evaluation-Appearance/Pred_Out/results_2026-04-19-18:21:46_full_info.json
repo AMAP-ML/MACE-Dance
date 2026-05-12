@@ -1,0 +1,72 @@
+[
+    {
+        "prompt_en": "1097a45bbc904e93b7f2526203723208",
+        "dimension": [
+            "imaging_quality",
+            "aesthetic_quality",
+            "subject_consistency",
+            "background_consistency",
+            "motion_smoothness",
+            "temporal_flickering"
+        ],
+        "video_list": [
+            "../Pred/1097a45bbc904e93b7f2526203723208.mp4"
+        ]
+    },
+    {
+        "prompt_en": "329bb551471940d6b6fa29bc3cd1b829",
+        "dimension": [
+            "imaging_quality",
+            "aesthetic_quality",
+            "subject_consistency",
+            "background_consistency",
+            "motion_smoothness",
+            "temporal_flickering"
+        ],
+        "video_list": [
+            "../Pred/329bb551471940d6b6fa29bc3cd1b829.mp4"
+        ]
+    },
+    {
+        "prompt_en": "5f0eda059ed949b29b91b26d821aba47",
+        "dimension": [
+            "imaging_quality",
+            "aesthetic_quality",
+            "subject_consistency",
+            "background_consistency",
+            "motion_smoothness",
+            "temporal_flickering"
+        ],
+        "video_list": [
+            "../Pred/5f0eda059ed949b29b91b26d821aba47.mp4"
+        ]
+    },
+    {
+        "prompt_en": "8fcf7edfb9324e2f819622fb1a1f7ae1",
+        "dimension": [
+            "imaging_quality",
+            "aesthetic_quality",
+            "subject_consistency",
+            "background_consistency",
+            "motion_smoothness",
+            "temporal_flickering"
+        ],
+        "video_list": [
+            "../Pred/8fcf7edfb9324e2f819622fb1a1f7ae1.mp4"
+        ]
+    },
+    {
+        "prompt_en": "b2e57db8055f43dda47f88b2d9efda88",
+        "dimension": [
+            "imaging_quality",
+            "aesthetic_quality",
+            "subject_consistency",
+            "background_consistency",
+            "motion_smoothness",
+            "temporal_flickering"
+        ],
+        "video_list": [
+            "../Pred/b2e57db8055f43dda47f88b2d9efda88.mp4"
+        ]
+    }
+]

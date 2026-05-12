@@ -1,0 +1,8 @@
+video,prompt,animate_pose_video,animate_face_video
+data/0001/video.mp4,视频中的人在跳舞,data/0001/pose_video.mp4,data/0001/face_video.mp4
+data/0002/video.mp4,视频中的人在跳舞,data/0002/pose_video.mp4,data/0002/face_video.mp4
+data/0003/video.mp4,视频中的人在跳舞,data/0003/pose_video.mp4,data/0003/face_video.mp4
+data/0004/video.mp4,视频中的人在跳舞,data/0004/pose_video.mp4,data/0004/face_video.mp4
+data/0005/video.mp4,视频中的人在跳舞,data/0005/pose_video.mp4,data/0005/face_video.mp4
+data/0006/video.mp4,视频中的人在跳舞,data/0006/pose_video.mp4,data/0006/face_video.mp4
+data/0007/video.mp4,视频中的人在跳舞,data/0007/pose_video.mp4,data/0007/face_video.mp4
