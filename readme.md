@@ -28,7 +28,7 @@
     <a href="https://arxiv.org/abs/2512.18181">
       <img src="https://img.shields.io/badge/arXiv-MACE--Dance-green" alt="Paper">
     </a>
-    <a href="https://macedance.github.io/">
+    <a href="https://sun-happy-ykx.github.io/MACE-Dance/">
       <img src="https://img.shields.io/badge/Project_Page-MACE--Dance-blue" alt="Project Page">
     </a>
     <a href="#">
