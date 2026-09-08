@@ -1,0 +1,13 @@
+# Python and local environments
+**/__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ruff_cache/
+
+# Downloaded checkpoints and generated Appearance Expert artifacts
+Expert-Appearance/models/
+Expert-Appearance/outputs/
+Expert-Appearance/iw_cases/
+Expert-Appearance/iw_*_data.csv
+Expert-Appearance/appearance_*_audit.csv

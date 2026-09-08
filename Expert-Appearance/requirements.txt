@@ -1,7 +1,6 @@
 torch>=2.0.0
 torchvision
 transformers
-imageio
 imageio[ffmpeg]
 safetensors
 einops
@@ -11,5 +10,7 @@ modelscope
 ftfy
 pynvml
 pandas
-accelerate
-peft
+numpy
+Pillow
+tqdm
+typing_extensions
